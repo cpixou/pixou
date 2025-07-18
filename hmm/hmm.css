@@ -79,7 +79,6 @@ body.l .u:hover {
   height: clamp(35px, 6vw, 50px);
   border: solid #222;
   border-radius: 50%;
-  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
